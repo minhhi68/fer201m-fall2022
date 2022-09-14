@@ -5,6 +5,17 @@
   min-height: 45px;
 }
 
+.navigation-ul-2{
+  display: flex;
+  text-align: center;
+  width: 100%;
+  
+  /* list-style-type: none; */
+  background-color: rgb(161,161,27);
+  min-height: 45px;
+ 
+}
+
 .active{
   background-color: rgb(161,161,27);
 }
@@ -29,6 +40,10 @@ a{
   background-color: #F1F1F1;
 }
 
+.card2{
+  text-align: right;
+}
+
 .card img{
   width: 100%;
 }
@@ -44,3 +59,8 @@ button{
 
 }
 
+.card2{
+  width: 100%;
+  text-align: center;
+
+}
